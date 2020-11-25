@@ -1,6 +1,6 @@
-<h1 align="center" style="color:rgb(250,130,60)"> Hi there, I'm Idan Rozen <img align="top" height="33" src="https://media.giphy.com/media/JoPURpweVqjVP7jl8N/giphy.gif"></h1>
+<h1 align="center" class="text-blue mb-2" > Hi there, I'm Idan Rozen <img align="top" height="40" src="https://media.giphy.com/media/JoPURpweVqjVP7jl8N/giphy.gif"></h1> 
 
-## I'm a Full Stack Web Developer
+##  I'm a Full Stack Web Developer 
 
  🌱 Currently seeking to take part in an interesting and challenging project
 
@@ -29,9 +29,9 @@
 --- 
 
  ### My latest projects:
--  <img src="https://toppng.com/uploads/preview/yellow-suitcase-115635674520vm8kjr8db.png" width="30px"> [Trolly][trolly] - Trip planner using React.js & mongoDB including the option to share and edit with friends and watch real time changes.
--  <img width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXqTI-o4xwAT8b998THp1H3qqkzqNVFQcHA&usqp=CAU" /> [MissBook][books] - A book store using Vue.js, SCSS  
--  <img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzMMgGr0RAcOEs-9BRf_Zq4No-bd1eg-yFfw&usqp=CAU"> [Catazon][catazon] - A toy store using React.js & mongoDB including chat and login/sign up page
+-  <img src="https://image.freepik.com/free-vector/travel-items-book-icon_24640-34703.jpg" width="30px"> [Trolly][trolly] - Trip planner using React.js & mongoDB including the option to share and edit with friends and watch real time changes.
+-  <img width="35px" align="center" src="https://image.freepik.com/free-vector/pile-student-books-icon-illustration-white-background_134830-290.jpg" /> [MissBook][books] - A book store using Vue.js, SCSS  
+-  <img width="30px" align="top" src="https://i.dlpng.com/static/png/6635453_preview.png"> [Catazon][catazon] - A toy store using React.js & mongoDB including chat and login/sign up page
 
 <br />
 
@@ -41,7 +41,7 @@
 
  - <img height="40px" align="center" src="https://icons-for-free.com/iconfiles/png/512/graduation+learn+school+student+study+icon-1320166023174441095.png"/> B.A in Psychology & Education
   
- - <img height="30px" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGFn086ub-YgAouC7X0DWNxTmWjF1Lt8hSw&usqp=CAU"/> Photography enthusiast
+ - <img height="30px" align="center" src="https://res.cloudinary.com/idanrozen/image/upload/v1606301900/camera_hqllxj.png"/>  Photography enthusiast
 
 </details>
 
